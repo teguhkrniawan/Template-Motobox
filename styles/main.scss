@@ -1,0 +1,87 @@
+// Header logos
+.top-header {
+    background-color: #FAFAFA;
+    min-height: 30px;
+    padding: 10px 30px;
+
+    .content-top-header {
+        background-color: #FAFAFA; 
+
+        img {
+            max-height: 120px;
+            padding-top: 10px;
+            padding-bottom: 10px;
+        }
+
+        .judul-usaha {
+            margin-top: 20px;
+            h3 {
+                font-size: 48px;
+            }
+            p {
+                margin-top: -7px;
+            }
+        }
+    }
+}
+
+.my-navbar {
+    padding: 10px 0px;
+
+    .navbar-nav {
+        .nav-link {
+            color: #2225f0;
+
+            &.active {
+                font-weight: bold !important;
+                color: #2d2e81;
+            }
+        }
+    }
+}
+
+.my-sidebar {
+    background-color: #FAFAFA; 
+    width: 100%;
+    padding: 10px 10px 30px 10px;
+
+    
+
+    p {
+        font-size: 24px;
+    }
+
+    li {
+        padding-bottom: 10px;
+        padding-left: 10px;
+
+        &.active {
+            font-weight: bold !important;
+            color: #2d2e81;
+        }
+    }
+
+    .login-dropdown {
+        margin-left: 20px;
+    }
+}
+
+.my-konten {
+    padding-right: 30px;
+
+    .misi-konten {
+        li {
+            margin-left: -22px;
+        }
+    }
+
+    .card-produk {
+        margin-bottom: 20px;
+    }
+
+    .tanggal-artikel {
+        color: #cccccc;
+        margin-top: -10px;
+    }
+}
+

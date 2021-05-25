@@ -1,0 +1,82 @@
+.top-header {
+  background-color: #FAFAFA;
+  min-height: 30px;
+  padding: 10px 30px;
+}
+
+.top-header .content-top-header {
+  background-color: #FAFAFA;
+}
+
+.top-header .content-top-header img {
+  max-height: 120px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.top-header .content-top-header .judul-usaha {
+  margin-top: 20px;
+}
+
+.top-header .content-top-header .judul-usaha h3 {
+  font-size: 48px;
+}
+
+.top-header .content-top-header .judul-usaha p {
+  margin-top: -7px;
+}
+
+.my-navbar {
+  padding: 10px 0px;
+}
+
+.my-navbar .navbar-nav .nav-link {
+  color: #2225f0;
+}
+
+.my-navbar .navbar-nav .nav-link.active {
+  font-weight: bold !important;
+  color: #2d2e81;
+}
+
+.my-sidebar {
+  background-color: #FAFAFA;
+  width: 100%;
+  padding: 10px 10px 30px 10px;
+}
+
+.my-sidebar p {
+  font-size: 24px;
+}
+
+.my-sidebar li {
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+.my-sidebar li.active {
+  font-weight: bold !important;
+  color: #2d2e81;
+}
+
+.my-sidebar .login-dropdown {
+  margin-left: 20px;
+}
+
+.my-konten {
+  padding-right: 30px;
+}
+
+.my-konten .misi-konten li {
+  margin-left: -22px;
+}
+
+.my-konten .card-produk {
+  margin-bottom: 20px;
+}
+
+.my-konten .tanggal-artikel {
+  color: #cccccc;
+  margin-top: -10px;
+}
+/*# sourceMappingURL=main.css.map */
